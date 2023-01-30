@@ -7,7 +7,7 @@
     </head>
     <body>
         <?php
-        phpinfo();
+        phpinfo(INFO-LICENSE);
         ?>
     </body>
 </html>
